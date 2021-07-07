@@ -22,3 +22,9 @@ https://dloyolar.github.io/control-de-gastos/
 <b>ENG</b>: App that consumes a quote API with its author giving the possibility to share the quote on twitter, developed with Vanilla JS.
 
 https://dloyolar.github.io/quote-generator/
+
+3.- Pequeña apa hecha con el CDN de Vue, manejando data dinamica a través de estilos
+
+<b>ENG</b>: A basic but entertaining project made with Vue CDN, enjoy 😁
+
+https://dloyolar.github.io/Perspective-Playground/
