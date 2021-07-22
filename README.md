@@ -23,8 +23,14 @@ https://dloyolar.github.io/control-de-gastos/
 
 https://dloyolar.github.io/quote-generator/
 
-3.- Pequeña apa hecha con el CDN de Vue, manejando data dinamica a través de estilos
+3.- Pequeña app hecha con el CDN de Vue, manejando data dinamica a través de estilos
 
 <b>ENG</b>: A basic but entertaining project made with Vue CDN, enjoy 😁
 
 https://dloyolar.github.io/Perspective-Playground/
+
+4.- Pequeño juego desarrollado en Vue basado en un curso 😁
+ENG: Small game developed in vue based on a course
+
+Repo: https://github.com/dloyolar/monster-slayer-vue
+Demo: https://dloyolar.github.io/monster-slayer-vue/
