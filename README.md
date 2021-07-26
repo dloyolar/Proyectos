@@ -37,7 +37,7 @@ Repo: https://github.com/dloyolar/monster-slayer-vue
 Demo: https://dloyolar.github.io/monster-slayer-vue/
 
 
-3.- Pequeña app  en la que se usa tilt.js para crear un efecto 3D en cards.
+5.- Pequeña app  en la que se usa tilt.js para crear un efecto 3D en cards.
 
 <b>ENG</b>: Small demo of Glassmmorphsim using vanilla tilt js with cards :) Enjoy!
 
