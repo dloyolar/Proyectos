@@ -33,4 +33,14 @@ https://dloyolar.github.io/Perspective-Playground/
 ENG: Small game developed in vue based on a course
 
 Repo: https://github.com/dloyolar/monster-slayer-vue
+
 Demo: https://dloyolar.github.io/monster-slayer-vue/
+
+
+3.- Pequeña app  en la que se usa tilt.js para crear un efecto 3D en cards.
+
+<b>ENG</b>: Small demo of Glassmmorphsim using vanilla tilt js with cards :) Enjoy!
+
+The only detail is that to really enjoy the experience you must view the site from a desktop device. 😁
+
+https://dloyolar.github.io/Glassmmorphism-tilt-js/
